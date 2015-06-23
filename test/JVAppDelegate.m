@@ -22,7 +22,8 @@
     JVHomeViewController * homeVC = [[JVHomeViewController alloc] init];
 
     //Google Maps
-    [GMSServices provideAPIKey:@"AIzaSyAbSicoMftnXSkc-m91PRahFX4YSXFZj8w"];
+//    [GMSServices provideAPIKey:@"AIzaSyAbSicoMftnXSkc-m91PRahFX4YSXFZj8w"];
+    [GMSServices provideAPIKey:@"AIzaSyAbSicoMftnXSkc-m91PRahFX4YSXFZj8w-12345"];
     //
     
     UINavigationController *navVC = [[UINavigationController alloc] init];
