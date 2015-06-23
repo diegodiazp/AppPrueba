@@ -24,6 +24,8 @@
     //Google Maps
 //    [GMSServices provideAPIKey:@"AIzaSyAbSicoMftnXSkc-m91PRahFX4YSXFZj8w"];
     [GMSServices provideAPIKey:@"AIzaSyAbSicoMftnXSkc-m91PRahFX4YSXFZj8w-12345"];
+    
+    //Agrego esto de prueba apps.carvajal@gmail.com
     //
     
     UINavigationController *navVC = [[UINavigationController alloc] init];
